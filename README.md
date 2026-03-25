@@ -5,6 +5,8 @@
 **Equipo**: Modular Minds  
 **Fecha de lanzamiento**: 13 de Marzo 2026
 
+![prohibido](https://img.shields.io/badge/⚠️%20AVISO-Queda%20prohibida%20su%20distribución%20parcial%20o%20total%20sin%20autorización%20de%20los%20contribuyentes-red)
+
 ---
 
 ## 📖 ¿Qué es Vittalium?
